@@ -24,13 +24,13 @@
 
 | 팀 주제  | 팀 멤버 | 참고 자료 | talk 요약 | 실습 저장소 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 게임 AI basic | 홍남수, 이유정, 김석겸  | https://github.com/haje01/gym-tictactoe <br> https://github.com/mrahtz/tensorflow-rl-pong <br> https://github.com/mpSchrader/gym-sokoban <br> https://github.com/genyrosk/gym-chess <br> https://github.com/sohamghosh121/PacmanGym |   |   |
+| 게임 AI basic | 홍남수, 이유정, 김석겸  | https://github.com/haje01/gym-tictactoe <br> https://github.com/mrahtz/tensorflow-rl-pong <br> https://github.com/mpSchrader/gym-sokoban <br> https://github.com/genyrosk/gym-chess <br> https://github.com/sohamghosh121/PacmanGym <br> https://github.com/mjedmonds/OpenLock|   |   |
 | 게임 AI 응용  | 홍남수, 강성원, 강윤기  | https://github.com/apsdehal/gym-starcraft <br>  https://github.com/zuoxingdong/dm2gym|   |   |
 | 자율주행  | 이윤경, 정애리, 반윤제, 윤승제  | https://github.com/microsoft/AirSim <br> https://github.com/GokulNC/Setting-Up-CARLA-Reinforcement-Learning <br> https://github.com/duckietown/gym-duckietown <br> https://github.com/AI-Guru/gym-metacar |   |   |
 | 챗봇  | 박민영, 김만식  | https://github.com/pochih/RL-Chatbot <br> https://github.com/adityathakker/awesome-rl-nlp <br> https://github.com/madrugado/deep-learning-nlp-rl-papers <br>  https://www.youtube.com/watch?v=F1hZfoh-wX4  |   |   |
 | 금융  | 김무성, 이태영  | https://github.com/quantylab/rltrader <br> https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e  |   |   |
 | 수학  | 김무성, MINJIHYUN, 최하균  | https://github.com/princeton-vl/CoqGym <br> https://github.com/bstriner/gym-traffic <br> https://github.com/openai/gym-wikinav |   |   |
-| 제어  | 김지은, 장승진  | https://github.com/udacity/gym-jetson <br> https://github.com/EmbersArc/gym_rocketLander <br> https://github.com/bstriner/gym-traffic <br> https://github.com/LucasAlegre/sumo-rl <br> https://github.com/paulhendricks/gym-inventory |   |   |
+| 제어  | 김지은, 장승진  | https://github.com/udacity/gym-jetson <br> https://github.com/eyyi/dymrl <br> https://github.com/EmbersArc/gym_rocketLander <br> https://github.com/bstriner/gym-traffic <br> https://github.com/LucasAlegre/sumo-rl <br> https://github.com/paulhendricks/gym-inventory <br> https://github.com/gpldecha/gym-leftright <br> https://github.com/bjoluc/gymwipe <br> https://github.com/emerrf/gym-wind-turbine|   |   |
 | 이미지  | 장수경  |   |   |   |
 
 ### 세션 2 - AlphaStar 실습 
