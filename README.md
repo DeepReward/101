@@ -22,4 +22,6 @@
     * 실습 - https://github.com/fourmodern/DRLHO
 
 ### 세션 2  
-  * 발표자 : 
+  * 발표자 : 이경만
+  * 발표자료 
+    * [슬라이드(pdf)](/2019/10/resrc/Unity-ML-Agent-Quick-Guide.pdf)
