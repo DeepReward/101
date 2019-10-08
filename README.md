@@ -31,3 +31,4 @@
   * 실습 환경 준비 사항 : 없음
   * 발표자료 
     * [슬라이드(pdf)](/2019/10/resrc/Unity-ML-Agent-Quick-Guide.pdf) / [slideshare link](https://www.slideshare.net/ssuser04bc10/unity-ml-agent-quick-guide)
+    * [동영상](https://www.youtube.com/playlist?list=PLrUmivS__m8X2axQ7xAuC_bGbTHK61qFj)
