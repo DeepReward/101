@@ -10,7 +10,7 @@
 |2019| 6  | 세션 1 - 강화학습 기초 및 환경 설정 <br> 세션 2 - AlphaStar 실습 (1)  | [등록](https://festa.io/events/341)  | [6월 자료](2019/06/) |
 |2019| 7  | 세션 1 - RL 기본 알고리즘 - DP, MC, TD <br> 세션 2 - AlphaStar 실습 (2)  | [등록](https://festa.io/events/383)  | [7월 자료](2019/07/) |
 |2019| 8  | 세션 1 - RL Basic - TD, Multi-Step, Eligibility Trace <br> 세션 2 - Deep RL Hands-on - PyTorch 기초, The Cross-Entropy Method  | [등록](https://festa.io/events/447)  | [8월 자료](2019/08/) |
-|2019| 10  | 세션 1 - Deep RL Hands-on : Tabular Laerning, Bellman Eq. DQN Basic <br> 세션 2 - UnityML Basic : Unity ML agent quick guide  | [등록](https://festa.io/events/570)  | [8월 자료](2019/10/) |
+|2019| 10  | 세션 1 - Deep RL Hands-on : Tabular Laerning, Bellman Eq. DQN Basic <br> 세션 2 - UnityML Basic : Unity ML agent quick guide  | [등록](https://festa.io/events/570)  | [10월 자료](2019/10/) |
 
 
 
